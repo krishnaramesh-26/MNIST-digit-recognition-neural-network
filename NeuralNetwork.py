@@ -1,3 +1,8 @@
+# This file is a work in progress
+
+#TODO
+
+
 class NeuralNetwork():
         # Initialisation
     def __init__():
